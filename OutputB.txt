@@ -1,0 +1,10 @@
+Enter the max space needed:Specify the type of stack to use: 1 for Character stack, 2 for Integer stack, 3 for date stack.
+Enter the integers. Enter 0 to end a string of integers and count it. Enter -1 to end. Enter -2 to pop a string of integers.
+          6,          46,           3,          25,          10,          18,           7, 
+Error: Stack Overflow on integer count push
+          4,          85,          67,          23,          42, 
+          1,           3, 
+Error: Stack overflow. Cannot push until popped.
+Error: Stack overflow. Cannot push until popped.
+Error: Stack overflow. Cannot push until popped.
+Error: Stack Overflow on integer count push

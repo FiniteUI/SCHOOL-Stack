@@ -1,0 +1,10 @@
+Enter the max space needed: Specify the type of stack to use: 1 for Character stack, 2 for Integer stack
+Enter the characters. Enter # to end a string of characters and count it. Enter - to end. Enter ! to pop a string of characters.
+5ytteb
+3tom
+3eoj
+Error: Stack Empty. Cannot Pop until Pushed.
+3boB
+Error: Stack overflow. Cannot push until popped.
+Error: Stack overflow. Cannot push until popped.
+Error: Stack Overflow on character count push.

@@ -1,0 +1,34 @@
+Enter the max space needed:Specify the type of stack to use: 1 for Character stack, 2 for Integer stack, 3 for date stack.
+Enter 1 to push a date, 2 to pop a date,  3 to push a date string count, or 4 to end:
+Enter a date in Month, dd, yyyy
+
+Enter a date in Month, dd, yyyy
+
+Enter a date in Month, dd, yyyy
+
+Enter a date in Month, dd, yyyy
+
+Enter a date in Month, dd, yyyy
+
+Enter a date in Month, dd, yyyy
+
+Enter a date in Month, dd, yyyy
+
+          3
+JUNE         12       2004
+DECEMBER         24       2003
+FEBRUARY          4       1777
+          1
+OCTOBER         12       2003
+          3
+SEPTEMBER          1       2004
+FEBRUARY         23       1492
+JANUARY         15       1952
+Error: Stack Underflow
+Enter a date in Month, dd, yyyy
+
+Enter a date in Month, dd, yyyy
+
+          2
+AUGUST         11       2002
+SEPTEMBER         17       1623
